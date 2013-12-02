@@ -1,0 +1,259 @@
+#murm td {
+	border: 1px solid #ddd;
+	vertical-align: top;
+}
+#murm th {
+	border: 1px solid #ddd;
+	vertical-align: top;
+	text-align: left;
+}
+#content #ws-plugin--s2member-profile table td {
+	border: 1px solid #ddd;
+}
+#content #ws-plugin--s2member-profile table th {
+	border: 1px solid #ddd;
+}
+.wpmeetup-profile :invalid {
+  border: 2px solid #ff0000;
+}
+#user_list.wpmeetup-members-list {
+	list-style: none;
+	margin-left: 0;
+}
+#user_list.wpmeetup-members-list li.wpmeetup-user {
+	border-bottom: 1px solid #ececec;
+	margin: 0 0 45px;
+	overflow: hidden;
+	padding: 20px 20px 45px;
+	position: relative;
+	list-style: none;
+}
+#user_list.wpmeetup-members-list .wpmeetup-user-avatar {
+	float: left;
+	overflow: hidden;
+	padding-bottom: 40px;
+	margin-right: 20px;
+}
+#user_list.wpmeetup-members-list img.avatar {
+	border-radius: 200px;
+}
+#user_list.wpmeetup-members-list .wpmeetup-user-name {
+	font-weight: 700;
+}
+#user_list.wpmeetup-members-list .wpmeetup-user-social {
+	display: none;
+}
+#user_list.wpmeetup-members-list .wpmeetup-sociallinks {
+	margin: 0;
+}
+#user_list.wpmeetup-members-list .wpmeetup-user-description{
+	clear: both;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li {
+	float: left;
+	margin: 0px 6px 6px 0;
+	list-style: none;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a {
+	background: url('images/socialicons.png') 0 0 no-repeat;
+	background-color: #909090;
+	display:block;
+	height:37px;
+	margin:0;
+	overflow: hidden;
+	padding:0;
+	text-indent: 100%;
+	white-space: nowrap;
+	width:37px;
+	-webkit-border-radius:	42px;
+	-moz-border-radius:		42px;
+	border-radius:			42px;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a:hover {
+	background-color: #515151;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-twitter {
+	background-position: 0 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-facebook {
+	background-position: -37px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-googleplus {
+	background-position: -74px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-flickr {
+	background-position: -111px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-instagram {
+	background-position: -148px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-picasa {
+	background-position: -185px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-fivehundredpx {
+	background-position: -222px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-youtube {
+	background-position: -259px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-vimeo {
+	background-position: -296px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-dribbble {
+	background-position: -333px 0;
+}
+#user_list.wpmeetup-members-list ul.sociallinks li a.wpmeetup-ffffound {
+	background-position: -370px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-pinterest {
+	background-position: -407px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-zootool {
+	background-position: -444px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-behance {
+	background-position: -481px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-deviantart {
+	background-position: -518px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-squidoo {
+	background-position: -555px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-slideshare {
+	background-position: -592px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-lastfm {
+	background-position: -629px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-grooveshark {
+	background-position: -666px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-soundcloud {
+	background-position: -703px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-foursquare {
+	background-position: -740px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-gist,
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-github {
+	background-position: -777px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-linkedin {
+	background-position: -814px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-xing {
+	background-position: -851px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-wordpress {
+	background-position: -888px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-tumblr {
+	background-position: -925px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-rss {
+	background-position: -962px 0;
+}
+#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wpmeetup-rsscomments {
+	background-position: -999px 0;
+}
+/*! =HD images
+----------------------------------------------- */
+@media	(-webkit-min-device-pixel-ratio: 2), /* Webkit browsers */
+		(min--moz-device-pixel-ratio: 2),    /* old Firefox (prior to FF 16) */
+		(min-resolution: #2dppx),          /* the standard using dppx */
+		(min-resolution: #192dpi) {
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.twitter {
+		background-image: url('images/x2/twitter.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.facebook {
+		background-image: url('images/x2/facebook.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.googleplus {
+		background-image: url('images/x2/googleplus.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.flickr {
+		background-image: url('images/x2/flickr.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.instagram {
+		background-image: url('images/x2/instagram.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.picasa {
+		background-image: url('images/x2/picasa.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.fivehundredpx {
+		background-image: url('images/x2/fivehundredpx.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.youtube {
+		background-image: url('images/x2/youtube.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.vimeo {
+		background-image: url('images/x2/vimeo.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.dribbble {
+		background-image: url('images/x2/dribbble.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.ffffound {
+		background-image: url('images/x2/ffffound.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.pinterest {
+		background-image: url('images/x2/pinterest.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.zootool {
+		background-image: url('images/x2/zootool.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.behance {
+		background-image: url('images/x2/behance.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.deviantart {
+		background-image: url('images/x2/deviantart.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.squidoo {
+		background-image: url('images/x2/squidoo.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.slideshare {
+		background-image: url('images/x2/slideshare.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.lastfm {
+		background-image: url('images/x2/lastfm.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.grooveshark {
+		background-image: url('images/x2/grooveshark.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.soundcloud {
+		background-image: url('images/x2/soundcloud.png');
+		-webkit-background-size: 35px 35px !important;
+		background-size: 		 35px 35px !important;
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.foursquare {
+		background-image: url('images/x2/foursquare.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.github {
+		background-image: url('images/x2/github.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.linkedin {
+		background-image: url('images/x2/linkedin.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.xing {
+		background-image: url('images/x2/xing.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.wordpress {
+		background-image: url('images/x2/wordpress.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.tumblr {
+		background-image: url('images/x2/tumblr.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.rss {
+		background-image: url('images/x2/rss.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a.rsscomments {
+		background-image: url('images/x2/rsscomments.png');
+	}
+	#user_list.wpmeetup-members-list ul.wpmeetup-sociallinks li a {
+		background-color: #909090;
+		background-position: 0 0;
+		background-repeat: no-repeat;
+		-webkit-background-size: 37px 37px;
+		background-size: 		 37px 37px;
+	}
+}
